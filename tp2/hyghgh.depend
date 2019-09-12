@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1557190671 source:c:\users\alumno\desktop\hyghgh\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557289823 source:c:\users\bruno\onedrive\escritorio\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557518639 source:d:\la facu\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"empleado.h"
+	"Goffredo.h"
+
+1557516691 source:d:\la facu\tp 2\goffredo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
+1557507872 d:\la facu\tp 2\empleado.h
+
+1557515073 d:\la facu\tp 2\goffredo.h
+
+1557518506 source:d:\la facu\tp 2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Goffredo.h"
+	<stdlib.h>
+
